@@ -1,0 +1,35 @@
+.bg-container {
+  background-color: #07080c;
+  background-size: cover;
+  height: 100vh;
+}
+.image {
+  height: 100px;
+  width: 90vw;
+}
+.heading {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.span-element {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.button1 {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 7px;
+  border-radius: 5px;
+}
+.button2 {
+  background-color: transparent;
+  border-color: #ffffff;
+  color: #ffffff;
+  padding: 7px;
+  border-radius: 5px;
+  border-width: 3px;
+}
